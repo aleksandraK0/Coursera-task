@@ -15,7 +15,11 @@ h1 {
 #header-nav {
   background-color: #dbdbdb;
 }
-
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
 .navbar-brand {
   font-weight: bold;
 }
